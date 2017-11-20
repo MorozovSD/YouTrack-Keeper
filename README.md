@@ -6,7 +6,5 @@ Infinite Improbability Drive
 
 
 [Документация](./docs/index.md)
-
 [CI](./docs/CI.md)
-
-[Доска](https://keeper.myjetbrains.com/youtrack)
+[Доска](https://trello.com/b/eaBkXGdw/infinite-improbability-drive)
