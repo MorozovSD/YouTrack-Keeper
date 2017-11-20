@@ -6,5 +6,7 @@ Infinite Improbability Drive
 
 
 [Документация](./docs/index.md)
+
 [CI](./docs/CI.md)
+
 Доска: Coming soon.
