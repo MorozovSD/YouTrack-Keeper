@@ -9,4 +9,4 @@ Infinite Improbability Drive
 
 [CI](./docs/CI.md)
 
-Доска: Coming soon.
+[Доска](https://keeper.myjetbrains.com/youtrack)
