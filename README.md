@@ -1,1 +1,1 @@
-[Документация](./docs/getting-started.md)
+[Документация](./docs/index.md)
