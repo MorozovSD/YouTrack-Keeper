@@ -1,7 +1,8 @@
 Здесь будет что-то полезное, связанное с тестированием
 
-Где-то тут наверное будет происходить тестирование
+Тестерование происходит при помощи esspresso test и сервисов:
 
-https://saucelabs.com/beta/dashboard/tests
+[saucelabs](https://saucelabs.com/beta/dashboard/tests)
 
-https://app.testobject.com/#/kilokso/apps/new
+
+[testobject](https://app.testobject.com/#/kilokso/apps/new)
