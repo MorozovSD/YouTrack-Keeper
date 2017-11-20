@@ -1,1 +1,1 @@
-[К содержанию](./getting-started.md)
+[К содержанию](./index.md)
