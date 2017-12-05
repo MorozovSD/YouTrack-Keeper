@@ -2,4 +2,5 @@
 Для авторизации используется oauth 2.0
 
 [К содержанию](./index.md)
-[Readme](./README.md)
+
+[Readme](../README.md)
