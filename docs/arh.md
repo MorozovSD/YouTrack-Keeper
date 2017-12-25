@@ -5,10 +5,10 @@
 ```java
 public void login(String baseUri, String login, String password)
 ```  
-Производит авторизацию пользователя по заданным параметрам:
-_baseUri_ - URI требуемого Youtrack'а
-_login_ - Логин пользователя
-_password_ - Пароль пользователя
+Производит авторизацию пользователя по заданным параметрам:  
+_baseUri_ - URI требуемого Youtrack'а  
+_login_ - Логин пользователя  
+_password_ - Пароль пользователя  
 
 
 ```java
