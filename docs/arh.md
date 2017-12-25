@@ -1,2 +1,2 @@
 
-[Readme](../README.md)
+[К содержанию](./index.md)
