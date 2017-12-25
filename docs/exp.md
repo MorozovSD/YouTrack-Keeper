@@ -10,7 +10,7 @@
 После заполнения полей, выходите из меню настроек и приложение выведет вам список задач:  
 ![alt text](https://github.com/MorozovSD/YouTrack-Keeper/blob/master/pic/issues.bmp "issues")
 
-Для получение дополнительной информации по задаче нажмете на нее, в открывшемся окне выберете интересующий вас отдел:
+Для получение дополнительной информации по задаче нажмете на нее, в открывшемся окне выберете интересующий вас отдел:  
 ![alt text](https://github.com/MorozovSD/YouTrack-Keeper/blob/master/pic/references.bmp "references")  
 
 
