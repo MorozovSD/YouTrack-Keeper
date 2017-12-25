@@ -5,6 +5,7 @@
 Для работы с исходниками, вам потребуется [Android Studio](https://developer.android.com/studio/index.html) и для удобства работы [Genimotion](https://www.genymotion.com/)  
 Для работы с RestAPI используется библиотека [Retrofit](http://square.github.io/retrofit/).  
 Для авторизации используется [oauth 2.0](https://oauth.net/2/)  
+Разработка ведется на языке Java
 
 
 [К содержанию](./index.md)
