@@ -1,4 +1,4 @@
-### *Архитектура*
+## *Архитектура*
 
 ### YouTrackDAO
 ### IssueActivity
