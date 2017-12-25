@@ -1,13 +1,10 @@
 Приложение для мобильных устройств на базе андроид "YouTrack-Keeper" предназначено для получение информации с онлайн сервиса по управлению задачами - youtracker. 
 
-Приложение поддерживается любым мобильным устройством с версией андроида 6+.
-
-Для установки приложения достаточно загрузить и установить apk файл.
-
-Для работы с исходниками, вам потребуется [Android Studio](https://developer.android.com/studio/index.html) и для удобства работы [Genimotion](https://www.genymotion.com/)
-
-Для работы с RestAPI используется библиотека [Retrofit](http://square.github.io/retrofit/).
-Для авторизации используется [oauth 2.0](https://oauth.net/2/)
+Приложение поддерживается любым мобильным устройством с версией андроида 6+.  
+Для установки приложения достаточно загрузить и установить apk файл.  
+Для работы с исходниками, вам потребуется [Android Studio](https://developer.android.com/studio/index.html) и для удобства работы [Genimotion](https://www.genymotion.com/)  
+Для работы с RestAPI используется библиотека [Retrofit](http://square.github.io/retrofit/).  
+Для авторизации используется [oauth 2.0](https://oauth.net/2/)  
 
 
 [К содержанию](./index.md)
