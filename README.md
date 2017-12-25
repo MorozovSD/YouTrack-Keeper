@@ -7,6 +7,6 @@ Infinite Improbability Drive
 
 [Документация](./docs/index.md)
 
-[CI](./docs/test.md)
+[Тестирование](./docs/test.md)
 
 [Доска](https://trello.com/b/eaBkXGdw/infinite-improbability-drive)
